@@ -1,0 +1,153 @@
+// Updated: 08-19-2026
+// Collection of unathorized AI engines that should not be used in an enterprise enviroment
+// Author: CYBERMEDIC
+
+DeepSeek
+// DeepSeek - Prohibited Technology - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+DeepSeek R1
+// DeepSeek R1 - Security, jailbreak, agent-hijacking, and censorship risks - NIST CAISI: nist.gov/news-events/news/2025/09/caisi-evaluation-deepseek-ai-models-finds-shortcomings-and-risks
+
+DeepSeek R1-0528
+// DeepSeek R1-0528 - Security, jailbreak, agent-hijacking, and censorship risks - NIST CAISI: nist.gov/news-events/news/2025/09/caisi-evaluation-deepseek-ai-models-finds-shortcomings-and-risks
+
+DeepSeek V3.1
+// DeepSeek V3.1 - Security and censorship evaluation - NIST CAISI: nist.gov/news-events/news/2025/09/caisi-evaluation-deepseek-ai-models-finds-shortcomings-and-risks
+
+DeepSeek V4
+// DeepSeek V4 - PRC AI model evaluated by U.S. NIST CAISI - NIST: nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro
+
+DeepSeek V4 Pro
+// DeepSeek V4 Pro - PRC AI model evaluated by U.S. NIST CAISI - NIST: nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro
+
+Kimi
+// Kimi - Moonshot AI developer is Prohibited Technology - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Kimi K2
+// Kimi K2 - PRC-developed AI family - Moonshot AI prohibited by Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Kimi K2 Thinking
+// Kimi K2 Thinking - PRC model with censorship findings - NIST CAISI: nist.gov/news-events/news/2025/12/caisi-evaluation-kimi-k2-thinking
+
+Moonshot AI
+// Moonshot AI - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Qwen
+// Qwen - Alibaba AI platform; Alibaba is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Qwen AI
+// Qwen AI - Alibaba AI platform; Alibaba is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Qwen3
+// Qwen3 - Alibaba model family; Alibaba is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Qwen3-Next
+// Qwen3-Next - Alibaba PRC AI model family; Alibaba prohibited by Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Alibaba AI
+// Alibaba - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Alibaba Cloud AI
+// Alibaba - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+ERNIE
+// ERNIE - Baidu AI platform; Baidu is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+ERNIE Bot
+// ERNIE Bot - Baidu AI platform; Baidu is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+ERNIE AI
+// ERNIE AI - Baidu AI platform; Baidu is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Baidu AI
+// Baidu - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Baichuan
+// Baichuan - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Baichuan AI
+// Baichuan AI - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Beijing Baichuan Intelligent Technology
+// Beijing Baichuan Intelligent Technology - Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+BAAI
+// Beijing Academy of Artificial Intelligence - Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Beijing Academy of Artificial Intelligence
+// BAAI - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+MiniMax
+// MiniMax - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+MiniMax AI
+// MiniMax AI - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+SenseTime
+// SenseTime - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+SenseTime AI
+// SenseTime - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+SenseNova
+// SenseNova - SenseTime AI platform; SenseTime is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+StepFun
+// StepFun - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+StepFun AI
+// StepFun AI - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Tencent AI
+// Tencent Holdings - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Hunyuan
+// Hunyuan - Tencent AI model family; Tencent is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Tencent Hunyuan
+// Tencent Hunyuan - Tencent is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Zhipu AI
+// Zhipu AI - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Z.ai
+// Z.ai - Zhipu/Z.ai is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+GLM
+// GLM - Zhipu/Z.ai model family; Zhipu/Z.ai is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+GLM AI
+// GLM AI - Zhipu/Z.ai model family; Zhipu/Z.ai is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+iFlytek
+// iFlytek - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+iFlytek AI
+// iFlytek AI - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+SparkDesk
+// SparkDesk - iFlytek AI service; iFlytek is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+CloudWalk AI
+// CloudWalk Technology - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+CloudWalk Technology
+// CloudWalk Technology - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Megvii
+// Megvii Technology - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Megvii AI
+// Megvii Technology - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Yitu AI
+// Yitu Technology - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Yitu Technology
+// Yitu Technology - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+Doubao
+// Doubao - ByteDance AI service; ByteDance is a Prohibited Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
+
+ByteDance AI
+// ByteDance Ltd. - Prohibited Technology/Developer - Texas DIR / Texas Cyber Command: dir.texas.gov/information-security/covered-applications-and-prohibited-technologies
